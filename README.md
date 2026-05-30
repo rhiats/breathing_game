@@ -1,2 +1,2 @@
-# breathing_game
+# Breathing Game
 Breathing exercises website
